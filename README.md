@@ -1,20 +1,4 @@
 # headless-shopify-test01
+A demo site for how to build a headless shopify site on nuxt, also using tailwind css, imgix, and Vercel to host.
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+Wrote an article on [dev.to](https://dev.to/daletom/headless-shopify-with-nuxt-tailwind-imgix-vercel-1ldg) if you would like to see a tutorial. There is also a [youtube link](https://www.youtube.com/watch?v=vI_JpzCTUX8&t=2s) as well.
